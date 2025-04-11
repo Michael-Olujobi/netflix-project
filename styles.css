@@ -272,6 +272,8 @@ nav a {
 .sect-two {
   padding: 100px 150px 20px 150px;
   background-color: black;
+  border-top: 3px solid red;
+  
 }
 
 .sect-two h2 {

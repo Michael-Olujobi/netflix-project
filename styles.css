@@ -8,7 +8,7 @@
 header {
   padding-bottom: 100px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/images/NG-en-20250407-TRIFECTA-perspective_a5282b30-e9c6-41dc-9ba8-90ff1d88bda6_small.jpg);
+    url('./images/NG-en-20250407-TRIFECTA-perspective_a5282b30-e9c6-41dc-9ba8-90ff1d88bda6_small.jpg');
 }
 
 header h2 {
